@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-
+<p align="left">Hello! My name is Melvin S. Bulan. I am currently on my senior year of college taking up Computer Science. I am really pationate about web development ever since I was a kid. I always love thinking and making my web design ideas come to life. I assure quality, minimalistic modern websites and applications. Follow me on my journey! </p>
 ---
 
 ### ✨ Language and Tools :
